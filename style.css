@@ -13,4 +13,6 @@ h2  {
     text-align: center;
 }
 
-
+.btn btn-primary btn-sm active  {
+    padding-top: 10%;
+}
