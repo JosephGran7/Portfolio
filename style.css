@@ -4,8 +4,13 @@
     text-align: center;
 
 }
+.logo   {
+    font-family: 'Oswald', sans-serif;
+}
+
 .nav {
     background-color: steelblue;
+    
 }
 form    {
     max-width: 600px;
