@@ -1,3 +1,12 @@
+.bannerQuote {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    text-align: center;
+
+}
+.nav {
+    background-color: steelblue;
+}
 form    {
     max-width: 600px;
     margin: auto
